@@ -4,8 +4,8 @@ This repository is a general sort program by [V](https://vlang.io/).
 
 ## Kind
 
-- [Bubble sort](bubblesort.v)
-- [Insert sort](insertsort.v)
+- [Bubble sort](vsort/bubblesort.v)
+- [Insert sort](vsort/insertsort.v)
 
 ## License
 
